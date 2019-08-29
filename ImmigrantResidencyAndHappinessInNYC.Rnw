@@ -1,16 +1,39 @@
 \documentclass{article}
 
+
+\title{Immigrant Residency and Happiness in NYC}
 \begin{document}
+\maketitle
 
-Title: Immigrant Residency and Happiness in NYC
+\section*{Introduction} (concept, dataset, background on surveys, Research Question, how does imm status connect to happiness )
 
-Intro (concept, dataset, background on surveys, Research Question, how does imm status connect to happiness )
 
-Data (Data supplied from ASA, subsections for each data we pulled from other resources-how segments are diff, pick borough and include the pic of it sub-boroughed and use it as an example for all sections (pic) )
 
-Results (what results were at JSM, what data shows)
+\section*{Data} (Data supplied from ASA, subsections for each data we pulled from other resources-how segments are diff, pick borough and include the pic of it sub-boroughed and use it as an example for all sections (pic) )
 
-Conclusion & Discussion (recap of all of what we did, connections, interesting findings, at a policy level "" should occur, happiness is skewed in favor of wealth, limitations)
+\subsubsection*{Income}
+
+
+\subsubsection*{Rent}
+
+
+\subsubsection*{Crime}
+
+
+\subsubsection*{Education}
+
+
+\subsubsection*{Health}
+
+
+
+\section*{Results} (what results were at JSM, what data shows)
+
+
+
+
+\section*{Conclusion and Discussion} (recap of all of what we did, connections, interesting findings, at a policy level "" should occur, happiness is skewed in favor of wealth, limitations)
+
 
 
 \end{document}
