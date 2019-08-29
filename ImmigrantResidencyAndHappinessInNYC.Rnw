@@ -1,0 +1,16 @@
+\documentclass{article}
+
+\begin{document}
+
+Title: Immigrant Residency and Happiness in NYC
+
+Intro (concept, dataset, background on surveys, Research Question, how does imm status connect to happiness )
+
+Data (Data supplied from ASA, subsections for each data we pulled from other resources-how segments are diff, pick borough and include the pic of it sub-boroughed and use it as an example for all sections (pic) )
+
+Results (what results were at JSM, what data shows)
+
+Conclusion & Discussion (recap of all of what we did, connections, interesting findings, at a policy level "" should occur, happiness is skewed in favor of wealth, limitations)
+
+
+\end{document}
